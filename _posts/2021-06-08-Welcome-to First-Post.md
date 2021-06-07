@@ -1,3 +1,9 @@
+---
+title: "Welcome-to-First-Post"
+date: 2021-06-08
+---
+
+
 This pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on yoThis pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your ajitminj-patch-1 branch and the pull request will update automatically.
 This pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your ajitminj-patch-1 branch and the pull request will update automatically.
 
